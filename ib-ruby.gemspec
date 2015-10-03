@@ -26,7 +26,7 @@ Gem::Specification.new do |gem|
   #gem.add_dependency 'activerecord-jdbcsqlite3-adapter', '>= 1.2.2'
   #gem.add_dependency 'jdbc-sqlite3', '>= 3.7.2'
   gem.add_dependency 'xml-simple', '>= 1.1.1'
-  gem.add_dependency 'standalone_migrations'
+  #gem.add_dependency 'standalone_migrations'
   #gem.add_dependency 'pg', '>= 0.12.1'
 
   gem.add_development_dependency 'database_cleaner', '>= 0.7.2'
